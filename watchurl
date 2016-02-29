@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-02-25 23:03:08.344684
+# {'~>1.16', '<3.0', '>=1.16', 'development', '~>1.25'}
+watchurl=https://rubygems.org/gems/mime-types/versions/([0-1]\.[0-9]{1,2}(\.[0-9a-zA-Z]+)?)
