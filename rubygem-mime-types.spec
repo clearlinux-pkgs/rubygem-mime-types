@@ -4,7 +4,7 @@
 #
 Name     : rubygem-mime-types
 Version  : 2.6.1
-Release  : 8
+Release  : 9
 URL      : https://rubygems.org/downloads/mime-types-2.6.1.gem
 Source0  : https://rubygems.org/downloads/mime-types-2.6.1.gem
 Summary  : No detailed summary available
